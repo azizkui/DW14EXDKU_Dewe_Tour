@@ -70,7 +70,9 @@
   width: 90px;
 }
 
-.btn-login {
+.btn-login {}
+
+.btn-register-login {
   width: 465px !important;
   margin-left: -15px !important;
 
